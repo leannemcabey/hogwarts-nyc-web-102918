@@ -64,7 +64,7 @@ ul {
 
 .subtleText {
   color: #D1D1D1;
-  font-size: .75em; 
+  font-size: .75em;
 }
 
 
@@ -137,4 +137,8 @@ ul {
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+.sort-button {
+  margin-bottom: 2%;
 }
